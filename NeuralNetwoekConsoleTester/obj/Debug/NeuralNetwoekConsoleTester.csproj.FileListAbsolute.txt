@@ -1,0 +1,10 @@
+C:\Projects\NeuralNetwoekConsoleTester\bin\Debug\NeuralNetwoekConsoleTester.exe.config
+C:\Projects\NeuralNetwoekConsoleTester\bin\Debug\NeuralNetwoekConsoleTester.exe
+C:\Projects\NeuralNetwoekConsoleTester\bin\Debug\NeuralNetwoekConsoleTester.pdb
+C:\Projects\NeuralNetwoekConsoleTester\obj\Debug\NeuralNetwoekConsoleTester.csprojResolveAssemblyReference.cache
+C:\Projects\NeuralNetwoekConsoleTester\obj\Debug\NeuralNetwoekConsoleTester.exe
+C:\Projects\NeuralNetwoekConsoleTester\obj\Debug\NeuralNetwoekConsoleTester.pdb
+C:\Projects\NeuralNetwoekConsoleTester\bin\Debug\MathNet.Numerics.dll
+C:\Projects\NeuralNetwoekConsoleTester\bin\Debug\MathNet.Numerics.xml
+C:\Projects\NeuralNetwoekConsoleTester\bin\Debug\NeuralNetworkLib.dll
+C:\Projects\NeuralNetwoekConsoleTester\bin\Debug\NeuralNetworkLib.pdb

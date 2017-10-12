@@ -1,0 +1,7 @@
+C:\Projects\NeuralNetworkLib\NeuralNetworkLib\bin\Debug\NeuralNetworkLib.dll
+C:\Projects\NeuralNetworkLib\NeuralNetworkLib\bin\Debug\NeuralNetworkLib.pdb
+C:\Projects\NeuralNetworkLib\NeuralNetworkLib\obj\Debug\NeuralNetworkLib.csprojResolveAssemblyReference.cache
+C:\Projects\NeuralNetworkLib\NeuralNetworkLib\obj\Debug\NeuralNetworkLib.dll
+C:\Projects\NeuralNetworkLib\NeuralNetworkLib\obj\Debug\NeuralNetworkLib.pdb
+C:\Projects\NeuralNetworkLib\NeuralNetworkLib\bin\Debug\MathNet.Numerics.dll
+C:\Projects\NeuralNetworkLib\NeuralNetworkLib\bin\Debug\MathNet.Numerics.xml
