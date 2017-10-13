@@ -29,7 +29,7 @@ namespace NeuralNetwoekConsoleTester
             Console.WriteLine(neuralNetwork.HiddenLayer.Weights.ToString());
 
             Console.WriteLine(neuralNetwork.OutputLayer.Values.ToString());
-            Console.WriteLine(neuralNetwork.OutputLayer.ActivateValues.ToString());
+            Console.WriteLine(neuralNetwork.OutputLayer.ActivatedValues.ToString());
             Console.WriteLine(neuralNetwork.OutputLayer.ExpectedInput.ToString());
 
 

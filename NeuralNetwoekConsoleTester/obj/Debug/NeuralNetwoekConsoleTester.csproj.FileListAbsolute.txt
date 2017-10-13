@@ -8,3 +8,14 @@ C:\Projects\NeuralNetwoekConsoleTester\bin\Debug\MathNet.Numerics.dll
 C:\Projects\NeuralNetwoekConsoleTester\bin\Debug\MathNet.Numerics.xml
 C:\Projects\NeuralNetwoekConsoleTester\bin\Debug\NeuralNetworkLib.dll
 C:\Projects\NeuralNetwoekConsoleTester\bin\Debug\NeuralNetworkLib.pdb
+C:\PersonnalProjects\MachineLearning\NeuralNetwoekConsoleTester\obj\Debug\NeuralNetwoekConsoleTester.csprojResolveAssemblyReference.cache
+C:\PersonnalProjects\MachineLearning\NeuralNetwoekConsoleTester\obj\Debug\NeuralNetwoekConsoleTester.csproj.CoreCompileInputs.cache
+C:\PersonnalProjects\MachineLearning\NeuralNetwoekConsoleTester\bin\Debug\NeuralNetwoekConsoleTester.exe.config
+C:\PersonnalProjects\MachineLearning\NeuralNetwoekConsoleTester\bin\Debug\NeuralNetwoekConsoleTester.exe
+C:\PersonnalProjects\MachineLearning\NeuralNetwoekConsoleTester\bin\Debug\NeuralNetwoekConsoleTester.pdb
+C:\PersonnalProjects\MachineLearning\NeuralNetwoekConsoleTester\bin\Debug\MathNet.Numerics.dll
+C:\PersonnalProjects\MachineLearning\NeuralNetwoekConsoleTester\bin\Debug\NeuralNetworkLib.dll
+C:\PersonnalProjects\MachineLearning\NeuralNetwoekConsoleTester\bin\Debug\MathNet.Numerics.xml
+C:\PersonnalProjects\MachineLearning\NeuralNetwoekConsoleTester\bin\Debug\NeuralNetworkLib.pdb
+C:\PersonnalProjects\MachineLearning\NeuralNetwoekConsoleTester\obj\Debug\NeuralNetwoekConsoleTester.exe
+C:\PersonnalProjects\MachineLearning\NeuralNetwoekConsoleTester\obj\Debug\NeuralNetwoekConsoleTester.pdb

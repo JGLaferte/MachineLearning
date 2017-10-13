@@ -35,7 +35,6 @@
   <ItemGroup>
     <Reference Include="MathNet.Numerics, Version=3.20.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\NeuralNetworkLib\packages\MathNet.Numerics.3.20.0\lib\net40\MathNet.Numerics.dll</HintPath>
-      <Private>True</Private>
     </Reference>
     <Reference Include="NeuralNetworkLib">
       <HintPath>..\NeuralNetworkLib\NeuralNetworkLib\bin\Debug\NeuralNetworkLib.dll</HintPath>

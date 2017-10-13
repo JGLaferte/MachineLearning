@@ -23,8 +23,6 @@ namespace NeuralNetworkLib
             this.InputLayer = new InputLayer(Inputs);
             this.OutputLayer = new OutputLayer(Outputs);
             this.HiddenLayer = new HiddenLayer(MatrixEngine.Dense(nbHiddenLayerNeurons, 1));
-
-
             GenerateWeight();
         }
 
@@ -40,22 +38,26 @@ namespace NeuralNetworkLib
             return 1 / (1 + Math.Exp(-x));
         }
 
+
+
+        public Matrix<double> ApplyActionMatrix(Matrix<double> matrix , Func<double,double> methode )
+        {
+            for (int i = 0; i < matrix.RowCount; i++)
+            {
+                for (int j = 0; j < matrix.ColumnCount; j++)
+                {
+                    matrix[i, j] =  methode(matrix[i,j]);
+                }
+            }
+            return matrix;
+        }
         public void FowardPropagation()
         {
             HiddenLayer.Values = InputLayer.Inputs.Multiply(InputLayer.Weights);
-            Matrix<double> matrixToApplyActivationFunction = HiddenLayer.Values.Clone();
-            for (int i = 0; i < matrixToApplyActivationFunction.RowCount; i++)
-            {
-                for (int j = 0; j < matrixToApplyActivationFunction.ColumnCount; j++)
-                {
-                    matrixToApplyActivationFunction[i, j] = Sigmoid(matrixToApplyActivationFunction[i, j]);
-                }
-            }
-            HiddenLayer.ActivateValues = matrixToApplyActivationFunction;
+            HiddenLayer.ActivateValues = ApplyActionMatrix(HiddenLayer.Values.Clone(), Sigmoid);
 
-
-
-
+            OutputLayer.Values = HiddenLayer.Values.Multiply(HiddenLayer.Weights);
+            OutputLayer.ActivatedValues = ApplyActionMatrix(OutputLayer.Values.Clone(), Sigmoid);
 
 
         }
@@ -94,13 +96,13 @@ namespace NeuralNetworkLib
     public class OutputLayer
     {
         public Matrix<double> Values { get; set; }
-        public Matrix<double> ActivateValues { get; set; }
+        public Matrix<double> ActivatedValues { get; set; }
         public Matrix<double> ExpectedInput { get; set; }
 
         public OutputLayer(Matrix<double> values)
         {
             Values = values;
-            ActivateValues = values.Clone();
+            ActivatedValues = values.Clone();
             ExpectedInput = Values.Clone();
         }
 

@@ -5,3 +5,11 @@ C:\Projects\NeuralNetworkLib\NeuralNetworkLib\obj\Debug\NeuralNetworkLib.dll
 C:\Projects\NeuralNetworkLib\NeuralNetworkLib\obj\Debug\NeuralNetworkLib.pdb
 C:\Projects\NeuralNetworkLib\NeuralNetworkLib\bin\Debug\MathNet.Numerics.dll
 C:\Projects\NeuralNetworkLib\NeuralNetworkLib\bin\Debug\MathNet.Numerics.xml
+C:\PersonnalProjects\MachineLearning\NeuralNetworkLib\NeuralNetworkLib\bin\Debug\NeuralNetworkLib.dll
+C:\PersonnalProjects\MachineLearning\NeuralNetworkLib\NeuralNetworkLib\bin\Debug\NeuralNetworkLib.pdb
+C:\PersonnalProjects\MachineLearning\NeuralNetworkLib\NeuralNetworkLib\bin\Debug\MathNet.Numerics.dll
+C:\PersonnalProjects\MachineLearning\NeuralNetworkLib\NeuralNetworkLib\bin\Debug\MathNet.Numerics.xml
+C:\PersonnalProjects\MachineLearning\NeuralNetworkLib\NeuralNetworkLib\obj\Debug\NeuralNetworkLib.csprojResolveAssemblyReference.cache
+C:\PersonnalProjects\MachineLearning\NeuralNetworkLib\NeuralNetworkLib\obj\Debug\NeuralNetworkLib.csproj.CoreCompileInputs.cache
+C:\PersonnalProjects\MachineLearning\NeuralNetworkLib\NeuralNetworkLib\obj\Debug\NeuralNetworkLib.dll
+C:\PersonnalProjects\MachineLearning\NeuralNetworkLib\NeuralNetworkLib\obj\Debug\NeuralNetworkLib.pdb
